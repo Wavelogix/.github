@@ -1,6 +1,8 @@
 # Welcome to Wavelogix!
 
 We keep our code on Github, but it is private.
+
+Feel free to look at our issue and PR templates as those must be public.
 <!--
 
 **Here are some ideas to get you started:**
