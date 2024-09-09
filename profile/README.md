@@ -1,4 +1,4 @@
-# Welcome to Wavelogix!
+# Welcome to Wavelogix :smile:
 
 We keep our code on Github, but it is private.
 
