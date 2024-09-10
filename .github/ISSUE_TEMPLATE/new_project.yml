@@ -2,3 +2,11 @@ name: New Project
 description: To start a new project
 title: "Project Name"
 assignees: ["HenrySi1va"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Give us a brief description of what happened and what should have happened
+    validations:
+      required: true
