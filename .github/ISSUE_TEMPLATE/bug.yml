@@ -1,7 +1,6 @@
-name: New Project
-description: To start a new project
-title: "Project Name"
-assignees: ["HenrySi1va"]
+name: New Bug
+description: Create a bug on this repo
+title: "Bug Name"
 body:
   - type: textarea
     id: description
