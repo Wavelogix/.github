@@ -7,6 +7,10 @@ body:
     id: project
     attributes:
       label: Project Link
-      description: Please place the link to the project's issue in the rebel-projects repo here
+      description: "Please place the link to the project's issue in the rebel-projects repo here:"
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        Remember to create a branch off this issue under the `Development` section to the right after submitting.

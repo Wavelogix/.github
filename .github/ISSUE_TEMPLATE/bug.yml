@@ -10,3 +10,7 @@ body:
       description: Give us a brief description of what happened and what should have happened
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        Remember to create a branch off this issue under the `Development` section to the right after submitting.
