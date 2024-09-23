@@ -1,6 +1,7 @@
 name: New Bug
 description: Create a bug on this repo
 title: "Bug Name"
+labels: ["bug"]
 body:
   - type: textarea
     id: description
