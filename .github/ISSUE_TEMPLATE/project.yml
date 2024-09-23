@@ -1,0 +1,12 @@
+name: Project Feature
+description: Link an issue in this repo to a project
+title: "Feature Name"
+labels: ["enhancement"]
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project Link
+      description: Please place the link to the project's issue in the rebel-projects repo here
+    validations:
+      required: true
