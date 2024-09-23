@@ -1,5 +1,5 @@
 name: Project Feature
-description: Link an issue in this repo to a project
+description: Link a new feature to a project
 title: "Feature Name"
 labels: ["enhancement"]
 body:
