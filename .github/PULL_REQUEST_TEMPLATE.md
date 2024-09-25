@@ -1,7 +1,27 @@
-# Select the Correct Section Below and Delete Everything Else ⚠️
+# ⚠️ TEMPLATE SELECTOR ⚠️
 
-# Proposal Review
+Follow the instructions to load the desired template.
 
-# Code/Demo Review
+## Proposal Review Template
 
-# Final Review
+Copy the code block and paste it to the end of the PR URL:
+
+```append-to-url
+?expand=1&template=proposal.md
+```
+
+## Code/Demo Review Template
+
+Copy the code block and paste it to the end of the PR URL:
+
+```append-to-url
+?expand=1&template=code-demo.md
+```
+
+## Final Review Template
+
+Copy the code block and paste it to the end of the PR URL:
+
+```append-to-url
+?expand=1&template=final.md
+```
