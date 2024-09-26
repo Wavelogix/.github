@@ -10,6 +10,13 @@ body:
       description: "Please place the link to the project's issue in the rebel-projects repo here:"
     validations:
       required: true
+  - type: textarea
+    id: coupled
+    attributes:
+      label: Coupled Features
+      description: Link features from other repos that must be pushed to production along with this one.
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
