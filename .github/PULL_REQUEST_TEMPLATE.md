@@ -2,6 +2,14 @@
 
 Click `Preview` above and follow the instructions to load the desired template.
 
+## Hotfix Review Template (`staging` ⬅️ `hotfix-branch` OR `prod` ⬅️ `hotfix-branch`)
+
+Copy the code block, paste it to the end of the PR URL, and hit enter:
+
+```append-to-url
+?expand=1&template=hotfix.md
+```
+
 ## Proposal Review Template (`approved` ⬅️ `project`)
 
 Copy the code block, paste it to the end of the PR URL, and hit enter:
