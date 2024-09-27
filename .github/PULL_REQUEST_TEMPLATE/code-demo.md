@@ -1,6 +1,6 @@
 # Code/Demo Review
 
-Project Issue Link:
+Project Proposal Link:
 
 Demo Video Link:
 
