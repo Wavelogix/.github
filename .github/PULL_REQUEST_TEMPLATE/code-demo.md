@@ -23,5 +23,3 @@ Replace `[ ]` with `[x]` to check items off the list.
 - [ ] List Coupled Features from Other Repos
 - [ ] Assign Project Team Members to Review
 - [ ] Assign Code Reviewer
-
-⚠️ **Do not** delete this branch after merging!

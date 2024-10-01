@@ -13,3 +13,5 @@ You can usually see which issues have been merged by looking at the commit histo
 Replace `[ ]` with `[x]` to check items off the list.
 
 - [ ] List Included Issues
+
+⚠️ **Do not** delete this branch after merging!
