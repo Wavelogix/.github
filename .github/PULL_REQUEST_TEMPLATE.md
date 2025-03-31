@@ -1,4 +1,4 @@
-# ⚠️ TEMPLATE SELECTOR ⚠️
+# ⚠️ TEMPLATE SELECTOR ⚠️ THIS IS NOT REQUIRED!!! Feel free to delete.
 
 Click `Preview` above and follow the instructions to load the desired template.
 
