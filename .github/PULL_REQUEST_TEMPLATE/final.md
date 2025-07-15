@@ -23,7 +23,7 @@ Replace `[ ]` with `[x]` to check items off the list.
 List of developers with issues in this PR.
 These developers must comment to this PR with their integration test report and links to documentation.
 
-- @henrySi1va
+- @GerryVanHorn
 
 ### Integration Test Report
 
