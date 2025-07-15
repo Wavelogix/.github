@@ -13,4 +13,4 @@ Replace `[ ]` with `[x]` to check items off the list.
 
 - [ ] List Included Issues
 - [ ] Submit PR for Hotfix on Both `staging` and `dev` (and `prod` if a production hotfix)
-- [ ] Assign Henry to Review
+- [ ] Assign Gerry to Review
